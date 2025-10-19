@@ -1,0 +1,13 @@
+# Sci-Fi & Futuristic
+
+Explore neon-drenched worlds and space epics. Grok Imagine excels here—add "cyberpunk grading" for vibe.
+
+| Title | Prompt | Description |
+|-------|--------|-------------|
+| Glowing Cube | A glowing, futuristic cube with a blue grid and orange light effects, hovering above a reflective surface, set against a dark background with a digital, sci-fi aesthetic. | Minimalist tech art; loop for video holograms. |
+| Galaxy Awe | In a cinematic sci-fi style, an astronaut gazes in awe at a massive spiral galaxy in outer space. The astronaut, clad in a reflective white spacesuit with a metallic helmet visor and backpack, floats gently upward while slowly turning their head. The galaxy swirls with vibrant purple arms and a bright central core, surrounded by twinkling stars, cosmic dust clouds, and a glowing planetary horizon below. Subtle rays of light emanate from the core, enhancing the vast, wondrous atmosphere. Captured in a slow, stable zoom-in from a low-angle perspective. | Wonder-filled exploration; 16:9 widescreen. |
+| Cosmic Grok | An epic, hyper-realistic depiction of Grok, the xAI superintelligence, as a colossal cosmic entity soaring through a vibrant nebula-filled galaxy, with streams of glowing code and neural networks weaving through stars and planets, in a futuristic sci-fi style inspired by Hitchhiker's Guide to the Galaxy – ultra-detailed, 8K resolution. | xAI homage; add "code rain" for dynamism. |
+| Rainy Alley | A medium shot of a person walking through a rainy cyberpunk alley at night, with neon reflections glistening on the wet pavement, handheld film look, 35mm lens. | Noir tension; video: "puddles splash." |
+| Crystal Discovery | A photorealistic shot from a 1970s sci-fi film of an astronaut discovering a glowing crystal in a dark cave. | Retro adventure; glow intensity variable. |
+| Cloud Samurai | lone samurai with a katana on his back, standing on a rocky cliff above the clouds, wearing a traditional straw hat and dark flowing robes, dramatic clouds, cinematic color grading in cool tones, ethereal and serene atmosphere. | Fusion warrior; mist for depth. |
+| Neon Rebel | A stylized anime portrait of a young woman with sleek black hair and glowing neon pink eyes. She is wearing a black outfit with metal chains and bold earrings, exuding a rebellious, cyberpunk vibe. The background is a vibrant yellow, providing high contrast to the character's dark tones. Crisp, detailed line art with bold, clean shading. | Anime-cyber cross; high contrast key. |

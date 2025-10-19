@@ -1,0 +1,13 @@
+# Anime & Cyberpunk
+
+Neon dreams: 80s OVA vibes, hackers in rain. Append "cel-shaded, dark mysterious" for authenticity.
+
+| Title | Prompt | Description |
+|-------|--------|-------------|
+| Neon Warrior Alley | A highly detailed anime warrior girl with long silver hair and glowing eyes in a neo-Tokyo cyberpunk style, set in a rainy back alley with neon signs, cinematic composition, soft lighting, realistic textures, 35mm lens depth of field, trending on ArtStation, intricate, hyperrealism | Blade Runner edge; video: "Walk toward camera, rain falls." |
+| Fox Spirit Sakura | A beautiful anime-style fox spirit girl in a traditional Japanese kimono, standing in a sakura-filled garden at dusk, cinematic composition, soft lighting, realistic textures, 35mm lens depth of field, trending on ArtStation, intricate, hyperrealism | Ethereal bloom; spin for gentle loop. |
+| Ghost in Shell Cyborg | Female cyborg in a reflective chrome bodysuit with seams, short metallic-blue bob haircut, calm expression, one hand on hip, the other making a peace sign; behind her, futuristic white guns float mid-air around a glowing holographic mesh; scene lit from below with cold bluish light fading into shadow, in the style of Masamune Shirow’s Ghost in the Shell cover art. | Iconic pose; holographic flicker video. |
+| Starlit Dreamer | (From image desc: Anime girl lying in grass under starry sky, wide eyes, subtle blush) Detailed prompt: A young woman with flowing dark hair lying on dewy grass under a vast starry nebula sky, wide curious eyes reflecting constellations, soft blush on cheeks, gentle night breeze, in Studio Ghibli-inspired anime style, ethereal glow, 16:9. | Cosmic wonder; add "eyes sparkle" for emotion. |
+| Aquatic Muse | (From image: Girl holding glowing blue fish underwater, surprised expression) Prompt: Ethereal anime girl with loose wavy hair holding a luminous turquoise fish in crystal waters, wide surprised eyes, soft sunlight rays filtering through, in Makoto Shinkai style, blue tones, bokeh bubbles. | Underwater magic; bubbles rise video. |
+| Trio Eclipse | (From image: Three anime girls in eclipse-lit room, mysterious gazes) Prompt: Three enigmatic anime women with varied hair colors (teal, black, pink) in a dimly lit room during solar eclipse, piercing eyes and subtle smiles, 80s OVA cel-shaded style, purple-red hues, dramatic shadows. | Enigmatic trio; eclipse pulse for video. |
+| Sunset Sleeper | (From image: Girl floating asleep on water at sunset) Prompt: Serene anime girl with long auburn hair floating face-up on calm sunset waters, closed eyes and faint smile, golden reflections on skin, in Hayao Miyazaki style, warm oranges, reflective ripples. | Tranquil drift; gentle wave motion. |
