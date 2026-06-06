@@ -34,3 +34,13 @@ Automatically updated daily by the Grok Imagine prompt scraper.
   - photorealistic-portraits: 2
   - abstract-surreal: 3
 
+
+## Run: 2026-06-06
+
+- Candidates found: 180
+- Duplicates discarded: 177
+- New prompts committed: 3
+- By category:
+  - video-animation: 1
+  - abstract-surreal: 2
+
