@@ -21,3 +21,16 @@ Automatically updated daily by the Grok Imagine prompt scraper.
   - abstract-surreal: 3
   - anime-cyberpunk: 2
 
+
+## Run: 2026-06-06
+
+- Candidates found: 181
+- Duplicates discarded: 170
+- New prompts committed: 11
+- By category:
+  - video-animation: 1
+  - cinematic: 4
+  - misc: 1
+  - photorealistic-portraits: 2
+  - abstract-surreal: 3
+
